@@ -17,7 +17,7 @@
                 android:title="2.2 State animator"/>
 
             <item
-                android:id="@+id/property_animator"
+                android:id="@+id/view_animation"
                 android:title="3. View animation"/>
             <item
                 android:id="@+id/vector"
@@ -47,36 +47,6 @@
             <item
                 android:id="@+id/canvas"
                 android:title="8. Canvas"/>
-        </menu>
-    </item>
-
-    <item android:title="Activity transitions">
-        <menu>
-            <item
-                android:id="@+id/activity_basic"
-                android:title="10.1 Basic transition"/>
-            <item
-                android:id="@+id/activity_shared"
-                android:title="10.2 Shared tranistion"/>
-            <item
-                android:id="@+id/activity_custom"
-                android:title="10.3 Custom tranistion"/>
-        </menu>
-    </item>
-
-    <item android:title="Fragment transitions">
-        <menu>
-            <item
-                android:id="@+id/fragment_basic"
-                android:title="11.1 Basic transition"/>
-
-            <item
-                android:id="@+id/fragment_shared"
-                android:title="11.2 Shared tranistion"/>
-
-            <item
-                android:id="@+id/fragment_custom"
-                android:title="11.3 Custom tranistion"/>
         </menu>
     </item>
 
